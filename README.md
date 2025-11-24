@@ -1,4 +1,4 @@
 # 6103-fa-25-Silberman
-Attempting to predict the size of demonstrations based on demographic data.
+Objective: To predict the size of demonstrations/protests based on metropolitan area demographics and the salience of the issue at hand.
 
 Final project for DATS 6103.
